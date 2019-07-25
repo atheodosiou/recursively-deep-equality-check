@@ -1,5 +1,5 @@
 {
-  "name": "deepequal",
+  "name": "recursive-deep-equal",
   "version": "0.0.1",
   "description": "DeepEqual for javascript objects.In other terms is consist of checking that an object, or objects graph, is equal with an other.",
   "main": "deep-equal.js",
